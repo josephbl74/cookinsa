@@ -12,6 +12,7 @@
       :key="cardInfo.id"
       :recipeSection="cardInfo"
     />
+    <recipe_feed />
     
   </div>
 </template>
